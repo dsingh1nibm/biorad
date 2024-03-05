@@ -1,0 +1,7 @@
+openai
+pandas
+langchain_experimental
+langchain_openai
+langchain
+streamlit
+os
