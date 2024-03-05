@@ -3,7 +3,6 @@ openai
 pandas
 langchain_experimental
 langchain_openai
-langchain_openai
 langchain
 warnings
 datetime
